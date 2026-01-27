@@ -1,6 +1,6 @@
-# Wagendas
+# Wagenda
 
-Wagendas es un sistema web de gestión de citas y reservas para negocios de servicios.
+Wagenda es un sistema web de gestión de citas y reservas para negocios de servicios.
 Permite a empresas administrar su disponibilidad, clientes y citas de forma sencilla
 a través de una aplicación moderna y escalable.
 
