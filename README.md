@@ -31,8 +31,10 @@ se encuentran documentados en detalle en:
 - **Backend:** Laravel 12 (API REST)
 - **Frontend:** Vue 3
 - **Base de datos:** PostgreSQL
+- **Servidor web:** Nginx
 - **Autenticación:** Tokens
 - **Arquitectura:** Separación por capas (controllers, services, repositories)
+- **Infraestructura:** Docker y Docker Compose
 
 ## 🚧 Estado del proyecto
 
@@ -49,6 +51,6 @@ Este proyecto es de uso personal y demostrativo.
 
 👨‍💻 Autor
 
-Wilfer Bru
-Desarrollador Laravel + Vue.js
-[Linkedin](https://www.linkedin.com/in/wilfer-jose-bru-torres-455b7220b)
+Wilfer Bru  
+Desarrollador Laravel + Vue.js  
+[LinkedIn](https://www.linkedin.com/in/wilfer-jose-bru-torres-455b7220b)

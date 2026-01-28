@@ -9,6 +9,10 @@ reservar citas de forma sencilla, ordenada y segura.
 El sistema es general y no está limitado a un tipo de negocio específico
 (barberías, consultorías, clínicas, asesorías, talleres, entre otros).
 
+Está diseñado como una aplicación web moderna basada en una arquitectura
+cliente-servidor, utilizando una API REST y un frontend SPA,
+desplegada sobre un entorno realista con **Nginx como servidor web**.
+
 ---
 
 ## 🎯 Objetivo del proyecto
@@ -20,6 +24,7 @@ Desarrollar un proyecto personal de portafolio que demuestre:
 - manejo de autenticación y roles
 - diseño de flujos reales de negocio
 - una experiencia de usuario clara y funcional
+- comprensión de un entorno de despliegue real (Nginx + API + SPA)
 
 ---
 
@@ -92,6 +97,7 @@ Estos eventos permitirán:
 - Estados de citas
 - API REST
 - Frontend SPA
+- Despliegue mediante Nginx y PHP-FPM
 
 ---
 
