@@ -19,9 +19,16 @@ enfocado en buenas prácticas de arquitectura, UX/UI y desarrollo profesional.
 - Panel administrativo
 - Consumo de API REST
 
+## 🧠 Diseño y visión del sistema
+
+La visión del proyecto, roles, flujos principales y decisiones de diseño
+se encuentran documentados en detalle en:
+
+📄 [`docs/vision.md`](docs/vision.md)
+
 ## 🛠️ Tecnologías
 
-- **Backend:** Laravel (API REST)
+- **Backend:** Laravel 12 (API REST)
 - **Frontend:** Vue 3
 - **Base de datos:** PostgreSQL
 - **Autenticación:** Tokens
@@ -37,3 +44,11 @@ Proyecto personal para portafolio.
 ## 📄 Licencia
 
 Este proyecto es de uso personal y demostrativo.
+
+---
+
+👨‍💻 Autor
+
+Wilfer Bru
+Desarrollador Laravel + Vue.js
+[Linkedin](https://www.linkedin.com/in/wilfer-jose-bru-torres-455b7220b)
